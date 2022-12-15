@@ -1,1 +1,0 @@
-OpenCV's inRange() to distinguish sky by setting RGB threshhold
