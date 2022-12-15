@@ -16,7 +16,7 @@ The goal of this project is to show the extent to which the varying number of ob
 
 - [Project Report](https://github.com/json-0201/TFM_sky_field_of_view/blob/main/TFM_Jimmy_Son_2021-2022.pdf "Project Report")
   
-## Built With
+## Programs & Libraries Used
 
 - Python [NumPy, Pandas, OpenCV, SciPy, pvlib]
 - MATLAB
