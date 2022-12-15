@@ -1,3 +1,0 @@
-python codes for
-- image processing
-- PV simulation
