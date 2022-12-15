@@ -1,6 +1,6 @@
 <h1 align="center">TRABAJO FIN DE MÁSTER: Sky Field Of View Diffuse Radiation Model</h1>
 
-<p align="justify">
+<p align="center">
 This project idea was derived from conducting case-studies in the VIPV technology.
   
 The nature of the PV-integrated vehicles requires them to be present within the urban environments most of the time. In order for these vehicles to generate useful energy from the solar radiation, it is important to consider that the module is mounted on top of them, and understand how much solar radiation can reach the module.
