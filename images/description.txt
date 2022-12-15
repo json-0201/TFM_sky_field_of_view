@@ -1,6 +1,0 @@
-image number identification - corresponding image number for distinct parking spot
-image original undistorted - undistorted image ready for processing
-image filter - visible sky detection
-image filtered - filter applied to original image
-
-parking lat long alt - latitude, longitude, altitude for distinct parking spot
