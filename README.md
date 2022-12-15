@@ -1,4 +1,7 @@
-# TFM_sky_field_of_view
+<div>
+<h1 align="center">Project title</h1>
+TFM_sky_field_of_view
+</div>
 
 ## Brief Description
 
