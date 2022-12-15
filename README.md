@@ -1,4 +1,4 @@
-<h2 align="center">TRABAJO FIN DE MÁSTER: Sky Field Of View Diffuse Radiation Model</h1>
+<h2 align="center">TRABAJO FIN DE MÁSTER: Sky Field Of View Diffuse Radiation Model</h2>
 
 <p align="center">
 This project idea was derived from conducting case-studies in the VIPV technology.
