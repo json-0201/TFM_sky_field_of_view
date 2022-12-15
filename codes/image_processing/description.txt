@@ -1,2 +1,0 @@
-opencv for visible sky filter
-scipy for heatmap
